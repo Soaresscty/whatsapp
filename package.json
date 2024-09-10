@@ -119,7 +119,7 @@
     "axios": "^1.4.0",
     "boxen": "^5.1.1",
     "chalk": "^4.0.0",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0",
     "chrome-launcher": "0.15.2",
     "chrome-version": "^1.0.1",
     "dotenv": "^16.0.1",
