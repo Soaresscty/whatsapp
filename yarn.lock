@@ -3044,10 +3044,10 @@ dot-prop@^6.0.1:
   dependencies:
     is-obj "^2.0.0"
 
-dotenv@^16.0.1:
-  version "16.2.0"
-  resolved "https://registry.npmjs.org/dotenv/-/dotenv-16.2.0.tgz"
-  integrity sha512-jcq2vR1DY1+QA+vH58RIrWLDZOifTGmyQJWzP9arDUbgZcySdzuBb1WvhWZzZtiXgfm+GW2pjBqStqlfpzq7wQ==
+dotenv@^16.4.6:
+  version "16.4.6"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.4.6.tgz#fc88e8a664087abf3e19d61e21f7feee1849bbb1"
+  integrity sha512-JhcR/+KIjkkjiU8yEpaB/USlzVi3i5whwOjpIRNGi9svKEXZSe+Qp6IWAjFjv+2GViAoDRCUv/QLNziQxsLqDg==
 
 duplexer2@~0.1.4:
   version "0.1.4"
